@@ -1,0 +1,444 @@
+﻿body {
+	overflow-x: hidden
+}
+
+.wrap-home-mobile {
+	display: none
+}
+
+.wrap-home {
+	font-family: 'microsoft yahei'
+}
+
+.wrap-home .animate-phone {
+	animate-duration: 10s;
+	animate-delay: 1s;
+	animate-iteration-count: 1
+}
+
+.wrap-home .container {
+	max-width: 1200px;
+	margin: 0 auto
+}
+
+.wrap-home .top_banner {
+	background: url(top_bg.png) no-repeat center top;
+	background-size: auto 1080px;
+	height: 860px;
+	padding: 95px 0;
+	overflow: hidden
+}
+
+.wrap-home .top_banner .container {
+	width: 1070px;
+	height: 560px
+}
+
+.wrap-home .top_banner .container .down-left {
+	margin-right: 160px;
+	width: 600px;
+	height: 100%;
+	text-align: center
+}
+
+.wrap-home .top_banner .container .down-left .logo {
+	display: inline-block;
+	width: 250px;
+	height: 250px
+}
+
+.wrap-home .top_banner .container .down-left .logo img {
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+.wrap-home .top_banner .container .down-left .text-yiqiyungou img {
+	margin-top: 30px;
+	display: inline-block;
+	height: 35px;
+	width: 158px
+}
+
+.wrap-home .top_banner .container .down-left .text-tips-dream img {
+	margin-top: 30px;
+	height: 130px;
+	display: inline-block
+}
+
+.wrap-home .top_banner .container .down-left .btns-download {
+	margin-top: 45px
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .left-btns button {
+	padding-left: 50px;
+	margin-bottom: 34px;
+	display: block;
+	height: 85px;
+	width: 320px;
+	background: #FFF;
+	border-radius: 8px;
+	border: none;
+	font-size: 30px;
+	font-family: 'Lucida Grande',Verdana,Tahoma,Arial,sans-serif;
+	font-weight: 400;
+	box-shadow: 0 6px 0 0 rgba(58, 57, 53, 0.37);
+	cursor: pointer
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .left-btns button.btn-iso {
+	background: #FFF url(http://sbz.webzuan.cn/images/icon_apple.png) no-repeat 20px center
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .left-btns button.btn-iso:hover {
+	box-shadow: 0 6px 0 0 #ffcc0e
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .left-btns button.btn-android {
+	background: #FFF url(http://sbz.webzuan.cn/images/icon_android.png) no-repeat 20px center
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .left-btns button.btn-android:hover {
+	box-shadow: 0 6px 0 0 #ffcc0e
+}
+
+.wrap-home .top_banner .container .down-left .btns-download .right-qrcod img {
+	display: block;
+	width: 208px;
+	height: 208px
+}
+
+.wrap-home .top_banner .container .phone-right {
+	width: 300px;
+	height: 579px;
+	background: url(http://sbz.webzuan.cn/images/phone.png) no-repeat center;
+	background-size: 300px 100%
+}
+
+.wrap-home .top_banner .container .phone-right .swiper-container {
+	background: #FFF;
+	width: 260px;
+	height: 462px;
+	overflow: hidden;
+	margin-top: 50px
+}
+
+.wrap-home .top_banner .container .phone-right .swiper-container img {
+	display: block;
+	width: 100%
+}
+
+.wrap-home .count-number h3 {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 40px;
+	height: 40px
+}
+
+.wrap-home .count-number .number {
+	margin: 50px 0;
+	font-size: 26px;
+	line-height: 80px;
+	height: 80px
+}
+
+.wrap-home .count-number .number .number-text {
+	display: inline-block;
+	padding: 0 20px;
+	height: 80px;
+	color: #DF1D37;
+	font-size: 60px;
+	font-family: 'microsoft yahei','Lucida Grande',Verdana,Tahoma,Arial,sans-serif
+}
+
+.wrap-home .count-number .title {
+	display: block;
+	height: 100px;
+	margin: 10px 0 40px 0;
+	text-align: center
+}
+
+.wrap-home .count-number .title img {
+	display: inline-block;
+	height: 100%
+}
+
+.wrap-home .count-number .application-desc .item {
+	margin-bottom: 30px
+}
+
+.wrap-home .count-number .application-desc .item p {
+	height: 26px;
+	line-height: 26px;
+	font-size: 14px
+}
+
+.wrap-home .count-number .application-imgs img {
+	margin: 0 .5%;
+	display: block;
+	float: left;
+	width: 19%
+}
+
+.wrap-home .count-number .application-imgs.link-box {
+	padding-bottom: 100px;
+	margin-top: 50px
+}
+
+.wrap-home .count-number .application-imgs.link-box .link-item {
+	display: block;
+	float: left;
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	width: 120px;
+	font-size: 14px
+}
+
+.wrap-home .count-number .application-imgs.link-box .link-item:hover {
+	text-decoration: underline
+}
+
+.wrap-home .footer {
+	margin-bottom: -15px;
+	padding: 20px 0;
+	background: #f7bf0b;
+	font-size: 12px
+}
+
+.wrap-home .footer span {
+	margin-right: 40px
+}
+
+.wrap-home .footer p {
+	margin-top: 20px;
+	height: 20px;
+	line-height: 20px
+}
+
+@media screen and (max-width:800px) {
+	.wrap-home {
+		display: none
+	}
+
+	.wrap-home-mobile {
+		display: block;
+		font-size: 14px
+	}
+
+	.wrap-home-mobile img {
+		display: block;
+		max-width: 100%
+	}
+
+	.wrap-home-mobile .header {
+		position: relative
+	}
+
+	.wrap-home-mobile .download-count {
+		text-align: center;
+		height: 60px;
+		line-height: 60px;
+		font-size: 14px
+	}
+
+	.wrap-home-mobile .download-count .number {
+		padding-left: 6px;
+		padding-right: 6px;
+		font-size: 24px;
+		color: #DF1D37
+	}
+
+	.wrap-home-mobile .title img {
+		margin: 0 15%;
+		max-width: 70%
+	}
+
+	.wrap-home-mobile .download-box {
+		background: #df1d37;
+		margin: 30px 10px;
+		border-radius: 6px
+	}
+
+	.wrap-home-mobile .download-box .left-img-box {
+		width: 50%
+	}
+
+	.wrap-home-mobile .download-box .left-img-box img {
+		display: block;
+		margin: 20px 10% 20px 20%;
+		width: 60%;
+		max-height: 120px
+	}
+
+	.wrap-home-mobile .download-box .donwload-btns {
+		width: 50%;
+		padding-bottom: 10px
+	}
+
+	.wrap-home-mobile .download-box .donwload-btns button {
+		font-size: 12px;
+		display: block;
+		margin-top: 20px;
+		height: 40px;
+		width: 90%;
+		background: #FFF;
+		border: none;
+		border-radius: 4px;
+		box-shadow: 0 3px 0 #ad0b21;
+		box-sizing: border-box;
+		padding-left: 10px
+	}
+
+	.wrap-home-mobile .download-box .donwload-btns button.ios {
+		background: #FFF url(http://sbz.webzuan.cn/images/icon_apple.png) no-repeat 10px center;
+		background-size: auto 20px
+	}
+
+	.wrap-home-mobile .download-box .donwload-btns button.android {
+		background: #FFF url(http://sbz.webzuan.cn/images/icon_android.png) no-repeat 10px center;
+		background-size: auto 20px
+	}
+
+	.wrap-home-mobile .app-desc-box {
+		padding: 0 10px
+	}
+
+	.wrap-home-mobile .app-desc-box .box h3 {
+		height: 36px;
+		line-height: 36px;
+		font-weight: 400
+	}
+
+	.wrap-home-mobile .app-desc-box .box .item {
+		margin-top: 5px;
+		color: #a2a2a2
+	}
+
+	.wrap-home-mobile .app-desc-box .box .item .sub-tit {
+		color: #E62038
+	}
+
+	.wrap-home-mobile .app-desc-box .box .item p:not(.sub-tit) {
+		margin-top: 5px;
+		padding-left: 10px;
+		line-height: 160%
+	}
+
+	.wrap-home-mobile .app-desc-box .box.link-box {
+		margin-top: 20px
+	}
+
+	.wrap-home-mobile .app-desc-box .box.link-box a {
+		float: left;
+		display: block;
+		padding-right: 30px;
+		height: 30px;
+		line-height: 30px
+	}
+
+	.wrap-home-mobile .footer {
+		margin-top: 20px;
+		padding: 20px 0;
+		font-size: 12px;
+		text-align: center;
+		background: #F6BF0D;
+		line-height: 180%
+	}
+
+	.wrap-home-mobile .footer img {
+		display: inline
+	}
+}
+
+.c_meau {
+	width: 211px;
+	height: 380px;
+	position: fixed;
+	left: 50%;
+	margin-left: 700px;
+	bottom: 7%;
+	display: none;
+}
+
+.c_meau .fl {
+	width: 123px;
+	border: 1px solid #e5e5e5;
+	border-radius: 10px;
+}
+
+.c_meau .fl h4 {
+	width: 100%;
+	height: 61px;
+	background: #ffed41;
+	color: #81511c;
+	font-size: 16px;
+	line-height: 22px;
+	text-align: center;
+	padding: 8px 0;
+	font-weight: bold;
+	border-radius: 10px 10px 0 0;
+}
+
+.c_meau .fl_o {
+	background: #fff;
+	margin: -16px 0;
+	padding: 10px 0 0 0;
+}
+
+.c_meau .fl_o_o {
+	color: #7d7d7d;
+	font-size: 14px;
+}
+
+.c_meau .fl_o_o {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e5e5e5;
+	width: 108px;
+	text-align: center;
+	margin: auto auto 10px auto;
+}
+
+.c_meau .fl_o_o dd {
+	line-height: 14px;
+}
+
+.c_meau .fr_o {
+	margin: 90px 0 60px 0;
+}
+
+.c_meau .fr_t {
+	margin-left: 8px;
+	cursor: pointer;
+}
+
+.c_meau {
+	height: auto;
+	bottom: 35%;
+	display: block;
+}
+
+.c_meau .fl_o_o dd {
+	line-height: 22px;
+}
+
+.c_meau .fl_o {
+	margin: -16px 0 -11px 0;
+}
+
+.c_meau .fr_o {
+	margin: 90px 0 80px 0;
+}
+
+.padding {
+	background: #fff;
+	border-radius: 0 0 10px 10px;
+	height: 10px;
+}
+
+@media screen and (max-device-width: 1366px) {
+	.c_meau {
+		margin-left: 470px;
+		z-index: 100;
+	}
+}
