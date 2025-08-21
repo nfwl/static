@@ -122,10 +122,10 @@ transition:all .5s;
 -moz-transition:all .5s;
 -webkit-transition:all .5s;}
 .sy_ys .t_b.t_1{background:#fff url(https://static.nakeu.cn/xsw/images/y1.png) no-repeat top center / cover;}
-.sy_ys .n_r:hover .t_b.t_1{background:#ff4e50 url(y1.png) no-repeat bottom center / cover;}
-.sy_ys .t_b.t_2{background:#fff url(y1.png) no-repeat top center / cover;}
+.sy_ys .n_r:hover .t_b.t_1{background:#ff4e50 url(https://static.nakeu.cn/xsw/images/y1.png) no-repeat bottom center / cover;}
+.sy_ys .t_b.t_2{background:#fff url(https://static.nakeu.cn/xsw/images/y1.png) no-repeat top center / cover;}
 .sy_ys .n_r:hover .t_b.t_2{background:#ff4e50 url(https://static.nakeu.cn/xsw/images/y2.png) no-repeat bottom center / cover;}
-.sy_ys .t_b.t_3{background:#fff url(y1.png) no-repeat top center / cover;}
+.sy_ys .t_b.t_3{background:#fff url(https://static.nakeu.cn/xsw/images/y1.png) no-repeat top center / cover;}
 .sy_ys .n_r:hover .t_b.t_3{background:#ff4e50 url(https://static.nakeu.cn/xsw/images/y3.png) no-repeat bottom center / cover;}
 .sy_ys .w_z{text-align:center; margin-top:40px;}
 .sy_ys .w_z h3{font-size:22px; font-weight:lighter; color:#333; margin-bottom:20px;}
