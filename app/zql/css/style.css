@@ -79,7 +79,7 @@ transition:all .5s;
 .banner .w_z .w_m img.w{display:none;}
 .banner .b_d{width:100%; position:absolute; bottom:0; left:0;}
 .banner .b_d img{width:100%; height:auto; display:block;}
-.banner a.a_n{width:50px; height:50px; background:url(http://zql.webzuan.cn/index/images/b_n.png) no-repeat center / cover; display:block; position:absolute; bottom:50px; left:50%; margin-left:-25px;}
+.banner a.a_n{width:50px; height:50px; background:url(https://static.nakeu.cn/zql/images/b_n.png) no-repeat center / cover; display:block; position:absolute; bottom:50px; left:50%; margin-left:-25px;}
 @media only screen and (max-width:992px){
 .banner{padding:60px 0 100px;}
 .banner .t_p img{max-width:70%; margin:0 auto;}
@@ -97,7 +97,7 @@ transition:all .5s;
 
 .gy_bt{text-align:center; margin-bottom:40px;}
 .gy_bt h3{font-size:30px; font-weight:lighter; margin-bottom:15px;}
-.gy_bt em{width:80px; height:3px; background:url(http://zql.webzuan.cn/index/images/h_x.png) no-repeat center; background-size:100% 100%; display:block; margin:0 auto;}
+.gy_bt em{width:80px; height:3px; background:url(https://static.nakeu.cn/zql/images/h_x.png) no-repeat center; background-size:100% 100%; display:block; margin:0 auto;}
 .gy_bt p{font-size:15px; line-height:26px; color:#666; margin-top:15px;}
 @media only screen and (max-width:992px){
 .gy_bt h3{font-size:26px; line-height:36px;}
@@ -166,7 +166,7 @@ transition:all .5s;
 .sy_sq .t_p img{max-width:70%; margin:0 auto; display:block;}
 }
 
-.sy_zc{width:100%; padding:90px 0; background:url(zc_bj.jpg) no-repeat center / cover fixed; overflow:hidden;}
+.sy_zc{width:100%; padding:90px 0; background:url(https://static.nakeu.cn/zql/images/zc_bj.jpg) no-repeat center / cover fixed; overflow:hidden;}
 .sy_zc .gy_bt h3{color:#fff;}
 .sy_zc .gy_bt p{color:#ddd;}
 .sy_zc .row{margin:0 -30px; position:relative;}
@@ -175,9 +175,9 @@ transition:all .5s;
 .sy_zc .b_s{width:100px; height:100px; background-color:#ff4e50; border-radius:50%; border:2px solid #2b2b2b; font-size:18px; text-align:center; color:#fff; line-height:100px; position:absolute; top:0; left:50%; margin-left:-50px;}
 .sy_zc .w_z{padding:70px 30px 0; background-color:#fff; font-size:15px; line-height:26px; text-align:center;}
 .sy_zc .w_z p{min-height:104px;}
-.sy_zc .y_j{width:37px; height:27px; background:url(http://zql.webzuan.cn/index/images/j_t.png) no-repeat center; position:absolute; top:55%; left:50%;
+.sy_zc .y_j{width:37px; height:27px; background:url(https://static.nakeu.cn/zql/images/j_t.png) no-repeat center; position:absolute; top:55%; left:50%;
 transform:translate(-569%,0);}
-.sy_zc .e_j{width:37px; height:27px; background:url(http://zql.webzuan.cn/index/images/j_t.png) no-repeat center; position:absolute; top:55%; right:50%;
+.sy_zc .e_j{width:37px; height:27px; background:url(https://static.nakeu.cn/zql/images/j_t.png) no-repeat center; position:absolute; top:55%; right:50%;
 transform:translate(569%,0);}
 @media (min-width:992px){
 .sy_zc .y_j{display:none;}
@@ -192,7 +192,7 @@ transform:translate(569%,0);}
 .sy_zc .col-lg-4{padding:0 30px;}
 }
 @media only screen and (max-width:992px){
-.sy_zc{padding:60px 0 40px; background:url(zc_bj.jpg) no-repeat center / cover;}
+.sy_zc{padding:60px 0 40px; background:url(https://static.nakeu.cn/zql/images/zc_bj.jpg) no-repeat center / cover;}
 .sy_zc .n_r{position:relative; padding-top:50px; margin-bottom:20px;}
 .sy_zc .y_j{display:none;}
 .sy_zc .e_j{display:none;}
@@ -206,7 +206,7 @@ transform:translate(569%,0);}
 .sy_js .w_z{margin:30px 0;}
 .sy_js .w_z h3{font-size:26px; color:#ff4e50; margin-bottom:20px;}
 .sy_js .w_z p{font-size:15px; line-height:32px;}
-.sy_js .w_z a.a_n{width:130px; height:50px; border-radius:5px; background:url(http://zql.webzuan.cn/index/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:30px auto 0; display:block;}
+.sy_js .w_z a.a_n{width:130px; height:50px; border-radius:5px; background:url(https://static.nakeu.cn/zql/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:30px auto 0; display:block;}
 @media only screen and (max-width:992px){
 .sy_js{padding:50px 0 30px;}
 .sy_js .n_r{padding:0 10px; margin-top:0; margin-bottom:20px; box-shadow:0 0 15px #ccc;}
@@ -215,7 +215,7 @@ transform:translate(569%,0);}
 .sy_js .w_z a.a_n{width:140px; height:40px; line-height:40px; margin:20px auto 0;}
 }
 
-.sy_xz{width:100%; padding:90px 0; background:url(ban_bj.jpg) no-repeat center / cover; text-align:center; color:#fff; overflow:hidden;}
+.sy_xz{width:100%; padding:90px 0; background:url(https://static.nakeu.cn/zql/images/ban_bj.jpg) no-repeat center / cover; text-align:center; color:#fff; overflow:hidden;}
 .sy_xz h1{font-size:36px; font-weight:bold; margin-bottom:20px;}
 .sy_xz h2{font-size:22px; line-height:32px; margin-bottom:10px;}
 .sy_xz p{font-size:16px; line-height:26px; margin-bottom:20px;}
@@ -254,7 +254,7 @@ line-clamp:2;
 -o-line-clamp:2;
 -webkit-box-orient: vertical;}
 .sy_dt .w_z span i{margin-right:5px;}
-.sy_dt a.a_n{width:130px; height:50px; border-radius:5px; background:url(http://zql.webzuan.cn/index/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:30px auto 0; display:block;}
+.sy_dt a.a_n{width:130px; height:50px; border-radius:5px; background:url(https://static.nakeu.cn/zql/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:30px auto 0; display:block;}
 @media only screen and (max-width:992px){
 .sy_dt{padding:50px 0;}
 }
@@ -265,7 +265,7 @@ line-clamp:2;
 .sy_lx .l_x input.x_m{width:380px; float:left;}
 .sy_lx .l_x input.y_x{width:380px; float:right;}
 .sy_lx .l_x input.d_h{width:100%;}
-.sy_lx .l_x input.a_n{width:130px; height:50px; background:url(http://zql.webzuan.cn/index/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:0 auto;}
+.sy_lx .l_x input.a_n{width:130px; height:50px; background:url(https://static.nakeu.cn/zql/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; margin:0 auto;}
 .sy_lx .l_x textarea{width:100%; height:116px; padding:10px; line-height:24px; color:#333; margin-bottom:20px;}
 @media only screen and (max-width:992px){
 .sy_lx{padding:50px 0;}
@@ -275,7 +275,7 @@ line-clamp:2;
 .sy_lx .l_x input.a_n{width:140px; height:40px; line-height:40px;}
 }
 
-.n_ban{width:100%; padding:30px 0; font-size:26px; font-weight:lighter; color:#fff; background:url(ban_bj.jpg) no-repeat center / cover; overflow:hidden;}
+.n_ban{width:100%; padding:30px 0; font-size:26px; font-weight:lighter; color:#fff; background:url(https://static.nakeu.cn/zql/images/ban_bj.jpg) no-repeat center / cover; overflow:hidden;}
 @media only screen and (max-width:992px){
 .n_ban{padding:20px 0; font-size:22px;}
 }
@@ -303,7 +303,7 @@ line-clamp:2;
 .ny_xw .xw_xq .s_x{font-size:15px; line-height:30px; float:left;}
 .ny_xw .xw_xq .s_x .s_p{text-overflow:ellipsis; white-space:nowrap; overflow:hidden;}
 .ny_xw .xw_xq .s_x .x_p{text-overflow:ellipsis; white-space:nowrap; overflow:hidden;}
-.ny_xw .xw_xq a.a_n{width:130px; height:50px; border-radius:5px; background:url(http://zql.webzuan.cn/index/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; float:right; margin-top:5px; display:block;}
+.ny_xw .xw_xq a.a_n{width:130px; height:50px; border-radius:5px; background:url(https://static.nakeu.cn/zql/images/a_n.jpg) no-repeat center; background-size:100% 100%; font-size:16px; line-height:50px; color:#fff; text-align:center; float:right; margin-top:5px; display:block;}
 @media only screen and (max-width:992px){
 .ny_xw{padding:50px 0;}
 .ny_xw .xw_xq h1{font-size:18px; font-weight:bold; line-height:28px; margin-bottom:15px;}
